@@ -1,3 +1,5 @@
-This is the Hello World example from the git tutorial.
-(changed in original)
-kkkkkkkkkkkkkkkk
+Задание:
+
+Получить JSON файл по указанному URL,загрузить данные в таблицу.
+При клике на имя пользователя выпадает модальное окно с доп.информацией.
+Реализовать сортировку по клику на заголовок столбца.
